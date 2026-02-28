@@ -1,9 +1,10 @@
 {
   "version": "1.2.0",
   "downloadUrl": "https://github.com/1119-XXXL/Sortimentsmatrix-XXXL/releases/download/V1.2/Sortimentsmatrix-XXXL-V1.2.zip",
-  "minSupported": "1.1.0",
+  "minSupported": "1.2.0",
   "notes": "Performance-Optimierung\nNeue Filterlogik\nBugfixes"
 }
+
 
 
 
