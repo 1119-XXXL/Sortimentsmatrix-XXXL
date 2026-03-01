@@ -1,9 +1,10 @@
 {
   "version": "1.2.0",
   "downloadUrl": "https://github.com/1119-XXXL/Sortimentsmatrix-XXXL/releases/download/V1.2.0/Sortimentsmatrix-XXXL-V1.2.0.zip",
-  "minSupported": "1.2.0",
+  "minSupported": "1.1.0",
   "notes": "Neuheiten:\n\t• Online Update bei Internetverbindung\n\t• Menüleiste hinzugefügt\n\t• Schnelligkeit erhöht\nBug fix:\n\t• DB wird als Summer addiert\n\t• Bestand wird nur aus A und nicht aus L berechnet\n\t• Katalogansicht setzt sich nicht zurück"
 }
+
 
 
 
